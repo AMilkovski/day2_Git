@@ -8,5 +8,9 @@ public class ContactPage {
 
     // tic toc info
 
+    // email
+
+    //youtube
+
 
 }
